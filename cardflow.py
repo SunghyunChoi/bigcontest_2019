@@ -22,7 +22,6 @@ import itertools
 from matplotlib import pyplot as plt
 import seaborn as sns
 import random
-import re
 # -
 
 import ipympl
